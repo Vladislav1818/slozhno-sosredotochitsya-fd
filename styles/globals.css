@@ -10,7 +10,7 @@ body {
   min-inline-size: 375px;
   max-inline-size: 1024px;
   margin: 0 auto;
-  font-family: 'IBM Plex Mono';
+  font-family: 'IBM Plex Mono', monospace;
   font-weight: 400;
   font-size: 18px;
 }
@@ -23,6 +23,12 @@ h5,
 h6,
 p {
   margin: 0;
+}
+
+h2,
+h3,
+h4 {
+  font-size: 18px;
 }
 
 ul {

@@ -21,3 +21,6 @@
   --border-color: var(--accent-color);
   --background-nav: #FF007066;
 }
+:root.theme-dark .rec { 
+  display: inline; 
+}

@@ -22,6 +22,7 @@
   --background-nav: #32312D66;
 }
 
+
 @media (prefers-color-scheme: light) {
   :root {
   --bg-color: #FFF1F7;
@@ -34,6 +35,7 @@
   --accent-color: #353430;
   --decor-color: var(--accent-color);
   --border-color: var(--accent-color);
+  --background-nav: #32312D66;
   }
   .rec {
     display: none;
